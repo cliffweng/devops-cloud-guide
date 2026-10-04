@@ -56,7 +56,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). In short: one topic per file, keep it un
 
 These are the product locks this guide was built against — echoed here so future contributors don't accidentally relitigate them:
 
-- **Audience**: Penn CS/eng undergrads shipping side projects, and interviewing for SWE/SRE/platform internships. Not an enterprise ops or certification course.
+- **Audience**: Builders shipping side projects, and interviewing for SWE/SRE/platform internships. Not an enterprise ops or certification course.
 - **Time-boxed**: every topic is readable in ~7–9 minutes. Depth is sacrificed for scannability; "further reading" links are where depth lives.
 - **Learning + interview prep in one page**: each topic pairs core concepts with interview questions, rather than splitting them into separate tracks.
 - **AWS-first**: concrete examples use AWS; Azure/GCP get a short callout where the mapping is worth knowing, not a parallel deep dive.
